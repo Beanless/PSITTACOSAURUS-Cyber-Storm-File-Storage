@@ -31,3 +31,10 @@ python3 xor.py < ciphertext > (file to write the output to)
 
 
 Steg:
+python Steg.py -rs -bB -o[Offset] -i[Interval] -w[wrapper file name] -h[name of hidden file] 
+-i is the interval used to store the data
+-o is the offset of the file
+-b or -B is the bit and Byte method respectfully
+-w is the name of the wrapper file
+if using -r (reading hidden file) disregard the -h command (dont use it)
+if using -s (saving a hidden file) MUST use -h (name of the file to hide)
