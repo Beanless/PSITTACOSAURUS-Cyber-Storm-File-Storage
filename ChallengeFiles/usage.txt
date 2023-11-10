@@ -21,7 +21,9 @@ Manually figure out the timing for the 2 bits, manually figure out what time is 
 Run the code.
 
 TimeLock:
-
+python3 TimeLock.py < epoch.txt
+OR
+echo "1999 12 31 23 59 59" | python3 TimeLock.py
 
 XOR Crypto:
 
