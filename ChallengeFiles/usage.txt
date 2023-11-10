@@ -8,6 +8,8 @@ Vigenere Cipher:
 
 FTP Covert Channel:
 
+just use FileZilla lol
+
 
 Timing Covert Channel:
 
@@ -16,6 +18,8 @@ TimeLock:
 
 
 XOR Crypto:
+
+python3 xor.py < ciphertext > (file to write the output to)
 
 
 Steg:
