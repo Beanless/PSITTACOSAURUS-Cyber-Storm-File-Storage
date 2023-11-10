@@ -1,0 +1,21 @@
+We need to write how to execute each of the programs here:
+
+Binary Decoder:
+
+
+Vigenere Cipher:
+
+
+FTP Covert Channel:
+
+
+Timing Covert Channel:
+
+
+TimeLock:
+
+
+XOR Crypto:
+
+
+Steg:
