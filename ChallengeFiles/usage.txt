@@ -4,7 +4,11 @@ Binary Decoder:
 
 
 Vigenere Cipher:
+encoding
+python VigenereCypher.py -e < normaltext.txt
 
+decoding 
+python VigenereCypher.py -d < ciphertext.txt
 
 FTP Covert Channel:
 
