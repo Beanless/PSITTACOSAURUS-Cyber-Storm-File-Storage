@@ -1,7 +1,8 @@
 We need to write how to execute each of the programs here:
 
 Binary Decoder:
-
+python Binascii.py < binary_file.txt
+NOTE: must be 1 long line of binary (text file). If it is multiple lines long, make it 1 line.
 
 Vigenere Cipher:
 encoding
