@@ -17,7 +17,8 @@ just use FileZilla lol
 
 
 Timing Covert Channel:
-
+Manually figure out the timing for the 2 bits, manually figure out what time is 0 or 1, eidt the code accordingly.
+Run the code.
 
 TimeLock:
 
